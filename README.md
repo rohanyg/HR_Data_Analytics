@@ -16,7 +16,7 @@ The HR Data Analytics Dashboard uses Power BI,Power Query and DAX Query to analy
 - To understand the Presence,Work From Home and Sick Leave Percentage over the period of time and on different days of week.
 
 ### Data Sources
-Attendence Data: The primary dataset used for this analysis is the "Attendance Sheet 2022-2023_Masked.xlsx" file, containing detailed information about employees attendance.
+Attendance Data: The primary dataset used for this analysis is the "Attendance Sheet 2022-2023_Masked.xlsx" file, containing detailed information about employees attendance.
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, i performed the following tasks:
@@ -33,7 +33,7 @@ In the initial data preparation phase, i performed the following tasks:
 ### Result/Findings
 The analysis results are summarized as follows:
 - Around 11% of employees prefer to work from home on thursday and friday.
-- Around 93% op employees will be present on monday and tuesday.
+- Around 93% of employees will be present on monday and tuesday.
 - Sick leave percentage on some days is above 5% . It helps in finding reason for sick leaves	and company can take better measures of sanitisation.
 - It helps in better utilisation of the resources like doing team meeting on a day when majority of the people are present in the company.
 
