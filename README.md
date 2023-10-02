@@ -28,7 +28,7 @@ In the initial data preparation phase, i performed the following tasks:
 - Sorted by date to find the first and last date of the dataset and this is what first indicated that 3 months of activity was captured.
 - Removed the errors.
 
-[HR_Data_Analytics.pdf](https://github.com/rohanyg/HR_Data_Analytics/files/12784773/HR_Data_Analytics.pdf)
+![HR_Data_Analytics](https://github.com/rohanyg/HR_Data_Analytics/assets/136742005/50ca7c3f-e098-4fe4-a2a9-7956085862c7)
 
 ### Result/Findings
 The analysis results are summarized as follows:
