@@ -3,7 +3,7 @@ Designed a Power BI dashboard to track employee data including attendance, worki
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Project Overview](#business-task)
+- [Business Task](#business-task)
 - [Data Sources](#data-sources)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [Result/Findings](#resultfindings)
