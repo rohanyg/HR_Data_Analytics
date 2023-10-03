@@ -19,22 +19,22 @@ To understand the Presence,Work From Home and Sick Leave Percentage over the per
 Attendance Data: The primary dataset used for this analysis is the "Attendance Sheet 2022-2023_Masked.xlsx" file, containing detailed information about employees attendance.
 
 ### Data Cleaning/Preparation
-In the initial data preparation phase, i performed the following tasks:
+In the initial data preparation phase, I performed the following tasks:
 - Removed unwanted columns.
 - Changed the datatypes.
 - Checked for duplicate values and removed them.
 - Formatted date data into DD/MM/YYYY date format.
 - Formatted all numerical data into Number format with either no decimals or up to 2 decimals.
-- Sorted by date to find the first and last date of the dataset and this is what first indicated that 3 months of activity was captured.
+- Sorted by date to find the first and last date of the dataset, which indicated that 3 months of activity were captured.
 - Removed the errors.
 
 ![HR_Data_Analytics](https://github.com/rohanyg/HR_Data_Analytics/assets/136742005/50ca7c3f-e098-4fe4-a2a9-7956085862c7)
 
 ### Result/Findings
 The analysis results are summarized as follows:
-- Around 11% of employees prefer to work from home on thursday and friday.
-- Around 93% of employees will be present on monday and tuesday.
-- Sick leave percentage on some days is above 5% . It helps in finding reason for sick leaves	and company can take better measures of sanitisation.
+- Around 11% of employees prefer to work from home on Thursday and Friday.
+- Around 93% of employees will be present on Monday and Tuesday.
+- Sick leave percentage on some days is above 5%, helping in finding reasons for sick leaves. It also enables the company to take better measures for sanitization.
 - It helps in better utilisation of the resources like doing team meeting on a day when majority of the people are present in the company.
 
 ### Limitations 
