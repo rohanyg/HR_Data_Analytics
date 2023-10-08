@@ -10,7 +10,7 @@ Designed a Power BI dashboard to track employee data including attendance, worki
 - [Limitations](#limitations)
 
 ### Project Overview
-The HR Data Analytics Dashboard uses Power BI,Power Query and DAX Query to analyze employee attendance data and provide insights into attendance patterns. The data is  cleaned and transformed using Power Query and DAX Query. Dashboard is created with  visualizations, measures, KPIs and slicers to help HR identify areas for improvement.
+The HR Data Analytics Dashboard uses Power BI to analyze employee attendance data and provide insights into attendance patterns. The data is  cleaned and transformed using Power Query and DAX Query. Dashboard is created with  visualizations, measures, KPIs and slicers to help HR identify areas for improvement.
 
 ### Business Task
 To understand the Presence,Work From Home and Sick Leave Percentage over the period of time and on different days of week.
