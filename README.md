@@ -32,6 +32,9 @@ In the initial data preparation phase, I performed the following tasks:
 
 ### Result/Findings
 The analysis results are summarized as follows:
+- Presence percentage is 91.83%.
+- Work From Home percentage is 9.18%.
+- Sick Leave percentage is 1.10%.
 - Around 11% of employees prefer to work from home on Thursday and Friday.
 - Around 93% of employees will be present on Monday and Tuesday.
 - Sick leave percentage on some days is above 5%, helping in finding reasons for sick leaves. It also enables the company to take better measures for sanitization.
