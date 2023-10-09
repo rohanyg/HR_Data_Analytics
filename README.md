@@ -1,5 +1,5 @@
 # HR Data Analytics
-Designed a Power BI dashboard to track employee data including attendance, workingdays and leaves. Dashboard streamlined the HR processes and increased efficiency. This dashboard can save the hours of work for HR.
+Designed a Power BI dashboard to track employee data including attendance, working days and leaves. Dashboard streamlined the HR processes and increased efficiency. This dashboard can save the hours of work for HR.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
